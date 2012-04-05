@@ -35,7 +35,7 @@ public class GoogleWeather {
 			"Rain Showers", "Showers", "Thunderstorm", "Chance of Showers",
 			"Chance of Snow", "Chance of Storm", "Chance of Rain",
 			"Mostly Sunny", "Partly Sunny", "Scattered Showers", "Sunny",
-			"Snow Showers", "Light snow", "Light rain", "Snow" };
+			"Snow Showers", "Light snow", "Snow" };
 
 	/**
 	 * If your internet connection went down, or googles service is inconsistent
