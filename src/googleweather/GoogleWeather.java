@@ -15,7 +15,7 @@ import processing.xml.XMLElement;
  * 
  * @author: Marcel Schwittlick
  * @email: marzzzel@gmail.com
- * @date: 27.03.2012
+ * @date: 28.03.2012
  */
 public class GoogleWeather {
 	private XMLElement weatherXML;
